@@ -1,0 +1,607 @@
+[01-Dec-2022 07:55:51 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 07:56:23 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 07:57:07 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:19:27 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:26:18 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:42 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:44 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:48 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:34:49 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:35:38 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:35:39 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:35:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 09:35:41 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 7.4.0". You are running 5.6.40. in /home/bluesystech/public_html/staging/vendor/composer/platform_check.php on line 25
+[01-Dec-2022 18:37:53 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:37:53 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:38:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:38:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:38:44 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:38:44 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:28 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:28 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:37 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:39:37 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:40:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[01-Dec-2022 18:41:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[02-Dec-2022 11:22:06 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:22:06 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:22:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:22:24 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:29:29 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:29:29 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:29:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:29:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:36:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:36:42 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:43:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:43:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:45:52 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:45:52 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 11:58:26 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 11:58:26 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 12:21:38 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 12:21:38 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 12:21:58 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 12:21:58 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 12:22:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 12:22:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:03:13 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:03:13 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:03:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:03:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:11:19 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:11:19 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:20:15 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:20:15 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:21:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:21:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:21:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:21:36 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:21:44 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:21:44 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:24:06 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:24:07 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:24:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:24:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:25:03 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:25:03 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:31:45 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:31:46 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:40:54 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:40:56 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 13:44:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 13:44:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 14:04:01 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 14:04:01 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 14:04:27 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[02-Dec-2022 14:04:27 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[02-Dec-2022 15:29:07 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[02-Dec-2022 15:29:16 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Dec-2022 11:27:06 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Dec-2022 11:27:16 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Dec-2022 11:28:23 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8192 bytes) in /home/bluesystech/public_html/staging/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 154
+[05-Dec-2022 13:35:17 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 13:35:17 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 16:09:32 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 16:09:32 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 16:16:35 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 16:16:35 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 16:20:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 16:20:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 16:25:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 16:25:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 16:34:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 16:34:25 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 17:15:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:15:11 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 163840 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 271
+[05-Dec-2022 17:17:02 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:17:02 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:17:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:17:20 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:17:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:17:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:17:54 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:17:54 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:18:04 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:18:04 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:18:15 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:18:15 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:23:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:23:55 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 17:24:02 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 17:24:02 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 18:44:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 18:44:00 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 18:44:47 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 18:44:47 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 18:46:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 18:46:18 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 18:46:57 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 18:46:57 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[05-Dec-2022 18:47:49 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[05-Dec-2022 18:47:49 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/bluesystech/public_html/staging/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[14-Dec-2022 11:57:09 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php:3
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/header.blade.php on line 3
+[14-Dec-2022 11:57:09 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php:3
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/header.blade.php on line 3
+[14-Dec-2022 11:57:31 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php:3
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/header.blade.php on line 3
+[14-Dec-2022 11:57:31 Asia/Dhaka] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected 'endif' (T_ENDIF), expecting end of file in /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php:3
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/header.blade.php on line 3
+[22-Dec-2022 18:26:26 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:26:26 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:13 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:14 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:26 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:27 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:57 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:29:57 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:30:12 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:30:13 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:37:21 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:37:21 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:38:50 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:38:51 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:38:59 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:39:00 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:39:05 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:39:05 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:39:30 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:39:30 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:43:19 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[22-Dec-2022 18:43:20 Asia/Dhaka] PHP Fatal error:  Uncaught ErrorException: Trying to get property 'gender' of non-object in /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php:22
+Stack trace:
+#0 /home/bluesystech/public_html/staging/storage/framework/views/e18cabc0f12760d37a64bdc884509046a73b5842.php(22): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Trying to get p...', '/home/bluesyste...', 22, Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/ in /home/bluesystech/public_html/staging/resources/views/frontend/inc/notification.blade.php on line 22
+[10-Jan-2023 11:14:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:02 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:08 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:20 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[10-Jan-2023 11:14:30 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 18:59:49 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 18:59:50 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:00 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:00 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:12 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:18 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:19 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.uploads' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/pub in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[11-Jan-2023 19:00:29 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.uploads' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/pub in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:34 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:39 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:45 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:55 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:55 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:59 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[12-Jan-2023 17:19:59 Asia/Kolkata] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'bluesystech_staging_tawde.languages' doesn't exist in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php:368
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(368): PDO->prepare('select * from `...')
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(705): Illuminate\Database\Connection->Illuminate\Database\{closure}('select * from `...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(672): Illuminate\Database\Connection->runQueryCallback('select * from `...', Array, Object(Closure))
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php(376): Illuminate\Database\Connection->run('select * from `...', Array, Object(Closure))
+#4 /home/bluesystech/p in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 712
+[19-Jan-2023 14:17:23 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:17:24 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:17:28 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:17:29 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:17:52 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:17:52 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:18:04 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:18:05 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:18:13 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:18:13 Asia/Kolkata] PHP Fatal error:  Uncaught Illuminate\Routing\Exceptions\UrlGenerationException: Missing required parameter for [Route: custom-pages.show_custom_page] [URI: {slug}] [Missing parameter: slug]. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php:35
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/RouteUrlGenerator.php(91): Illuminate\Routing\Exceptions\UrlGenerationException::forMissingParameters(Object(Illuminate\Routing\Route), Array)
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(466): Illuminate\Routing\RouteUrlGenerator->to(Object(Illuminate\Routing\Route), Array, true)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php(441): Illuminate\Routing\UrlGenerator->toRoute(Object(Illuminate\Routing\Route), Array, true)
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illum in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/UrlGenerationException.php on line 35
+[19-Jan-2023 14:20:22 Asia/Kolkata] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [{slug}] not defined. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('{slug}', Array, true)
+#1 /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php(192): route('{slug}')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste.. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[19-Jan-2023 14:20:22 Asia/Kolkata] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [{slug}] not defined. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:444
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(739): Illuminate\Routing\UrlGenerator->route('{slug}', Array, true)
+#1 /home/bluesystech/public_html/staging/storage/framework/views/b96368713b9a59128f8a50241e59623fb518b83a.php(192): route('{slug}')
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(107): require('/home/bluesyste...')
+#3 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste.. in /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 444
+[19-Jan-2023 14:44:16 Asia/Kolkata] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected '}', expecting ')' in /home/bluesystech/public_html/staging/storage/framework/views/c1686d65bee89a36f6ae5ebcc80650ff57a42ac8.php:139
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/View in /home/bluesystech/public_html/staging/resources/views/frontend/inc/footer.blade.php on line 138
+[19-Jan-2023 14:44:16 Asia/Kolkata] PHP Fatal error:  Uncaught ParseError: syntax error, unexpected '}', expecting ')' in /home/bluesystech/public_html/staging/storage/framework/views/c1686d65bee89a36f6ae5ebcc80650ff57a42ac8.php:139
+Stack trace:
+#0 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php(108): Illuminate\Filesystem\Filesystem::Illuminate\Filesystem\{closure}()
+#1 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(58): Illuminate\Filesystem\Filesystem->getRequire('/home/bluesyste...', Array)
+#2 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(61): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/bluesyste...', Array)
+#3 /home/bluesystech/public_html/staging/vendor/facade/ignition/src/Views/Engines/CompilerEngine.php(37): Illuminate\View\Engines\CompilerEngine->get('/home/bluesyste...', Array)
+#4 /home/bluesystech/public_html/staging/vendor/laravel/framework/src/Illuminate/View/View in /home/bluesystech/public_html/staging/resources/views/frontend/inc/footer.blade.php on line 138
