@@ -186,7 +186,7 @@ class HomeController extends Controller
 
         // Gender Check
         $user_ids = Member::where('gender', '!=', Auth::user()->member->gender)->pluck('user_id')->toArray();
-        $users = $users->WhereIn('id', $user_ids);
+        //$users = $users->WhereIn('id', $user_ids);
 
         // Ignored member and ignored by member check
         $users = $users->WhereNotIn("id", function ($query) {
@@ -216,22 +216,25 @@ class HomeController extends Controller
         }
         
         // Sort By age
-        if (!empty($age_from)) {
+        if (!empty($age_from) && !empty($age_to) ) {
             $age = $age_from + 1;
+            $age_to = $age_to + 1;
             $start = date('Y-m-d', strtotime("- $age years"));
-            $user_ids = Member::where('birthday', '<=', $start)->pluck('user_id')->toArray();
-            if (count($user_ids) > 0) {
-                $users = $users->WhereIn('id', $user_ids);
-            }
-        }
-        if (!empty($age_to)) {
-            $age = $age_to + 1;
             $end = date('Y-m-d', strtotime("- $age years +1 day"));
-            $user_ids = Member::where('birthday', '>=', $end)->pluck('user_id')->toArray();
+            $user_ids = Member::whereBetween('birthday', [$start,$end])->pluck('user_id')->toArray();
+           // $user_ids = Member::where('birthday', '<=', $start)->pluck('user_id')->toArray();
             if (count($user_ids) > 0) {
                 $users = $users->WhereIn('id', $user_ids);
             }
         }
+        // if (!empty($age_to)) {
+        //     $age = $age_to + 1;
+        //     $end = date('Y-m-d', strtotime("- $age years +1 day"));
+        //     $user_ids = Member::where('birthday', '>=', $end)->pluck('user_id')->toArray();
+        //     if (count($user_ids) > 0) {
+        //         $users = $users->WhereIn('id', $user_ids);
+        //     }
+        // }
 
         // Search by Member Code
         if (!empty($member_code)) {
